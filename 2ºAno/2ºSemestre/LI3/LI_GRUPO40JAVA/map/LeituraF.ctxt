@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LeituraF
+comment1.params=
+comment1.target=LeituraF()
+comment2.params=l
+comment2.target=LeituraF(LeituraF)
+comment3.params=
+comment3.target=LeituraF\ clone()
+comment4.params=fichtxt
+comment4.target=void\ lerFiles(java.lang.String)
+comment5.params=
+comment5.target=java.util.List\ getLinhas()
+numComments=6

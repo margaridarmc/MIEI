@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ReadWriteFichBinario
+comment0.text=\ classe\ que\ uarda\ e\ binario\n\n
+comment1.params=lista\ nomeArq
+comment1.target=void\ gravarArquivoBinario(Model,\ java.lang.String)
+comment1.text=\n\ guarda\ no\ fichwiro\ objeto\n\ @param\ lista\n\ @param\ nomeArq\n
+comment2.params=nomeArq
+comment2.target=Model\ lerArquivoBinario(java.lang.String)
+comment2.text=\n\ le\ a\ partir\ do\ ficheiro\ objeto\n\ @param\ nomeArq\n\ @return\n
+numComments=3

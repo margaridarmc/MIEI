@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Triplo
+comment1.params=n1\ n2\ n3
+comment1.target=Triplo(int,\ double,\ double)
+comment2.params=
+comment2.target=int\ getN1()
+comment3.params=
+comment3.target=double\ getN2()
+comment4.params=
+comment4.target=double\ getN3()
+numComments=5

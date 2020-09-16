@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CatProdutos
+comment1.params=
+comment1.target=CatProdutos()
+comment1.text=\n\ Construtores\n
+comment2.params=c
+comment2.target=CatProdutos(CatProdutos)
+comment3.params=
+comment3.target=CatProdutos\ clone()
+comment4.params=
+comment4.target=java.util.Set\ getCatP()
+comment5.params=p
+comment5.target=void\ setProd(java.util.Set)
+comment6.params=linhas
+comment6.target=void\ validaProduto(java.util.List)
+comment6.text=\n\ Mete\ em\ CatalogoProdutos\ apenas\ os\ c\u00F3digos\ de\ produtos\ v\u00E1lidos\n\ @param\ linhas\n
+numComments=7

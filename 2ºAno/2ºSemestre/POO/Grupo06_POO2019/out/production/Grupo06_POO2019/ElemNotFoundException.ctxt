@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ElemNotFoundException
+comment0.text=\n\ Excessao\ devida\ a\ um\ elemento\ n\u00E3o\ existente\ procurado\n
+comment1.params=mario
+comment1.target=ElemNotFoundException(java.lang.String)
+numComments=2

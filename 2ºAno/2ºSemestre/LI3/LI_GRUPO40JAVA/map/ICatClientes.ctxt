@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ICatClientes
+comment1.params=linhas
+comment1.target=void\ validaCliente(java.util.List)
+numComments=2

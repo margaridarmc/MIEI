@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=IGestView
+comment1.params=linhas
+comment1.target=void\ showOptions(java.util.List)
+comment10.params=m
+comment10.target=void\ q8(java.util.Map)
+comment11.params=sorted
+comment11.target=void\ q9(java.util.Map)
+comment12.params=prodDesejado\ resultado
+comment12.target=void\ q10(java.lang.String,\ java.util.Map)
+comment2.params=a\ b\ c\ d\ e\ f
+comment2.target=void\ imprimeSpecs(int,\ int,\ int,\ int,\ int,\ double)
+comment3.params=a\ b\ c\ d\ e\ f
+comment3.target=void\ imprimeTable(java.util.Map,\ java.util.Map,\ java.util.Map,\ java.util.Map,\ java.util.Map,\ java.util.Map)
+comment4.params=listagem\ u
+comment4.target=void\ paginacao(java.util.Set,\ int)
+comment5.params=t\ mes
+comment5.target=void\ q3(Triplo,\ int)
+comment6.params=t\ mes
+comment6.target=void\ q4(Triplo,\ int)
+comment7.params=m
+comment7.target=void\ q5(java.util.Map)
+comment8.params=m
+comment8.target=void\ q6(java.util.Set)
+comment9.params=m
+comment9.target=void\ q7(java.util.Map)
+numComments=13

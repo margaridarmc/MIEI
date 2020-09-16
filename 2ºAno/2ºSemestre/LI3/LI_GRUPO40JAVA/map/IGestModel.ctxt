@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=IGestModel
+comment1.params=
+comment1.target=java.util.Set\ querie1aux()
+comment10.params=produto\ n
+comment10.target=java.util.Map\ q9Aux(java.lang.String,\ int)
+comment11.params=prodDesejado
+comment11.target=java.util.Map\ q10Aux(java.lang.String)
+comment2.params=mes
+comment2.target=Triplo\ q2P1(int)
+comment3.params=fi
+comment3.target=Triplo\ q2P2(int)
+comment4.params=cliente\ mes
+comment4.target=Triplo\ querie3aux(java.lang.String,\ int)
+comment5.params=produto\ mes
+comment5.target=Triplo\ querie4aux(java.lang.String,\ int)
+comment6.params=cliente
+comment6.target=java.util.Map\ querie5aux(java.lang.String)
+comment7.params=f
+comment7.target=java.util.Set\ q6Aux(int)
+comment8.params=f
+comment8.target=java.util.Map\ querie7aux(int)
+comment9.params=f
+comment9.target=java.util.Map\ q8Aux(int)
+numComments=12

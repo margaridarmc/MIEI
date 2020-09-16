@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=View
+comment1.params=linhas
+comment1.target=void\ showOptions(java.util.List)
+comment1.text=\n\ Menus\ das\ opcoes\ iniciais\n\ @param\ linhas\n
+comment2.params=cli
+comment2.target=void\ showCli(Cliente)
+comment2.text=\n\ Menu\ cliente\n\ @param\ cli\n
+comment3.params=la
+comment3.target=void\ showAlugures(java.util.Set)
+comment3.text=\n\ Prints\ dos\ alugueres\n\ @param\ la\n
+comment4.params=prop
+comment4.target=void\ showprop(Proprietario)
+comment4.text=\n\ Perfil\ do\ proprietario\n\ @param\ prop\n
+comment5.params=lc
+comment5.target=void\ showCarros(java.util.List)
+comment5.text=\n\ Prints\ dos\ carros\n\ @param\ lc\n
+comment6.params=lc
+comment6.target=int\ showC(java.util.List)
+comment6.text=\n\ Prints\ de\ carros\n\ @param\ lc\n\ @return\n
+comment7.params=al
+comment7.target=void\ informacoesAluguer(Aluguer)
+comment7.text=\n\ informacoes\ sobre\ um\ determinado\ aluguer\n\ @param\ al\n
+comment8.params=cli\ i
+comment8.target=void\ showTop10(java.util.Set,\ int)
+comment8.text=\n\ Ranking\ de\ clientes\ por\ distancia\ percorrida\ ou\ por\ numero\ de\ alugueres\n\ @param\ cli\n\ @param\ i\n
+numComments=9

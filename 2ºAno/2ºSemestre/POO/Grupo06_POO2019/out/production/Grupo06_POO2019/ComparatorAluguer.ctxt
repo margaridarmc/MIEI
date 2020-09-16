@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparatorAluguer
+comment1.params=c1\ c2
+comment1.target=int\ compare(Cliente,\ Cliente)
+comment1.text=\n\n\ \ \ Compara\ Alugueres\ de\ Clientes\n\n\ @param\ c1\n\ @param\ c2\n\ @return\n
+numComments=2

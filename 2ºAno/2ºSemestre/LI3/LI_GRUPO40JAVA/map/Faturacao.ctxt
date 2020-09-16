@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Faturacao
+comment1.params=
+comment1.target=Faturacao()
+comment1.text=\n\ Construtores\n
+comment2.params=
+comment2.target=void\ geraListas()
+comment3.params=c
+comment3.target=Faturacao(Faturacao)
+comment4.params=
+comment4.target=Faturacao\ clone()
+comment5.params=
+comment5.target=java.util.Map\ getFat()
+comment6.params=v
+comment6.target=void\ addFaturacao(java.util.Set)
+comment6.text=\n\ Adiciona\ e\ divide\ vendas\ pelo\ respetivo\ mes\n\ @param\ v\n
+numComments=7

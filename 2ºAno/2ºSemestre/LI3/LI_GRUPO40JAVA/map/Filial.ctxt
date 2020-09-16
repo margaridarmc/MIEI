@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Filial
+comment1.params=
+comment1.target=Filial()
+comment1.text=\n\ Construtores\n
+comment2.params=c
+comment2.target=Filial(Filial)
+comment3.params=
+comment3.target=Filial\ clone()
+comment4.params=
+comment4.target=java.util.Map\ getFilial()
+comment5.params=
+comment5.target=void\ geraMap()
+comment6.params=v
+comment6.target=void\ fazFilial(java.util.Set)
+comment6.text=\n\ Adiciona\ e\ divide\ vendas\ pela\ respetiva\ filial\n\ @param\ v\n
+comment7.params=v\ i
+comment7.target=void\ separaClientes(Venda,\ int)
+numComments=8

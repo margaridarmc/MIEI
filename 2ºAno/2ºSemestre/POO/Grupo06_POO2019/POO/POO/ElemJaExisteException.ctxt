@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ElemJaExisteException
+comment0.text=\n\ Excessao\ causada\ por\ procura\ de\ um\ elemento\ nao\ existente\n\n
+comment1.params=passWord_Errada
+comment1.target=ElemJaExisteException(java.lang.String)
+numComments=2

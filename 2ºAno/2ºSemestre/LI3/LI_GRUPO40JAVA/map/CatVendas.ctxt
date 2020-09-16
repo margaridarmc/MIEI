@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CatVendas
+comment1.params=
+comment1.target=CatVendas()
+comment1.text=\n\ Construtores\n
+comment2.params=c
+comment2.target=CatVendas(CatVendas)
+comment3.params=
+comment3.target=CatVendas\ clone()
+comment4.params=
+comment4.target=java.util.Set\ getCatVendas()
+comment5.params=catVendas
+comment5.target=void\ setCatVendas(java.util.Set)
+comment6.params=l\ catP
+comment6.target=boolean\ achaPro(java.lang.String,\ java.util.List)
+comment7.params=l\ catC
+comment7.target=boolean\ achaCli(java.lang.String,\ java.util.Set)
+comment8.params=linhas\ catP\ catC
+comment8.target=int\ validaVendas(java.util.List,\ java.util.Set,\ java.util.Set)
+comment8.text=\n\ Mete\ em\ catVendas\ apenas\ os\ c\u00F3digos\ de\ vendas\ v\u00E1lidas\n\ @param\ linhas\n
+numComments=9
